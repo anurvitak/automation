@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21753" started-at="2021-10-10T11:45:49Z" finished-at="2021-10-10T11:46:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21753" started-at="2021-10-10T11:45:49Z" finished-at="2021-10-10T11:46:10Z">
+      <class name="com.automation.demo.tests.DemoTests">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.automation.demo.tests.DemoTests@3b084709]" name="initialize" is-config="true" duration-ms="15169" started-at="2021-10-10T17:15:49Z" finished-at="2021-10-10T17:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="verification()[pri:1, instance:com.automation.demo.tests.DemoTests@3b084709]" name="verification" duration-ms="1149" started-at="2021-10-10T17:16:04Z" description="verify header UI elements of homepage" finished-at="2021-10-10T17:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification -->
+        <test-method status="PASS" signature="playVideo()[pri:2, instance:com.automation.demo.tests.DemoTests@3b084709]" name="playVideo" duration-ms="5409" started-at="2021-10-10T17:16:05Z" description="search anything and play" finished-at="2021-10-10T17:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playVideo -->
+      </class> <!-- com.automation.demo.tests.DemoTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
